@@ -14,11 +14,11 @@ public class Main {
                     System.out.print(' ');
                 }
             }
-
             System.out.println();
         }
         System.out.println();
     }
+
 
     public static int nbVoisin (boolean[][] matrice, int i, int j){
         int nbvoisin = 0;
